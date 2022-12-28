@@ -1,0 +1,22 @@
+{
+  "name": "recursion-playground",
+  "version": "1.0.0",
+  "description": "<h2>Motivation</h2>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./dist/index.js",
+    "dev": "nodemon ./src/index.ts",
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanKr/recursion-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanKr/recursion-playground/issues"
+  },
+  "homepage": "https://github.com/NathanKr/recursion-playground#readme"
+}
